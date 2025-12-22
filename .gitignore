@@ -1,0 +1,19 @@
+# Bỏ qua thư mục biên dịch/build
+target/
+dist/
+build/
+out/
+
+# Bỏ qua thư viện tải về
+node_modules/
+
+# Bỏ qua file cấu hình IDE (IntelliJ, VSCode)
+.idea/
+.vscode/
+*.iml
+
+# Bỏ qua file hệ thống
+.DS_Store
+
+# Bỏ qua file log
+*.log
